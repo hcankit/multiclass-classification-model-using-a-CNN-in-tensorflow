@@ -17,7 +17,7 @@ Train the model for ~20 epochs
 
 Select a data augmentation strategy to resolve underfitting/overfitting.
 
-**Model Building & training on the augmented data **:
+**Model Building & training on the augmented data:**
 Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model rescale images to normalize pixel values between (0,1).
 Choose an appropriate optimiser and loss function for model training
 Train the model for ~20 epochs

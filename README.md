@@ -10,7 +10,7 @@
 
 **Dataset visualisation** → Create a code to visualize one instance of all the nine classes present in the dataset 
 
-**Model Building & training : **
+**Model Building & training :**
 Create a CNN model, which can accurately detect 9 classes present in the dataset.
 Choose an appropriate optimiser and loss function for model training
 Train the model for ~20 epochs
